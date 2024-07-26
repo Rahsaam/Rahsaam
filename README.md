@@ -54,8 +54,8 @@ You can contact me through my portfolio website which is available on my GitHub 
 </div>
  
 # 📊GitHub Stats :
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oo11boy&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oo11boy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahsaam&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahsaam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- wave effect -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
