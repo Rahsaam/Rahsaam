@@ -8,11 +8,11 @@ You can contact me through my portfolio website which is available on my GitHub 
 ## 🌐Socials
 <p align="center">
 
-<a href="mailto:unicodewebdesign@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+<a href="mailto:hesam.rahmani.2023@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
  &nbsp;
-<a href="https://t.me/oo11boy"><img src="https://skillicons.dev/icons?i=arch" alt="telegram" /></a>
+<a href="https://t.me/its_hessam"><img src="https://skillicons.dev/icons?i=arch" alt="telegram" /></a>
  &nbsp;
-<a href="https://instagram.com/oo11boy"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
+<a href="inkedin.com/in/herahmani"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
  &nbsp;
 </p>
 
