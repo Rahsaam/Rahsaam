@@ -12,7 +12,7 @@ You can contact me through my portfolio website which is available on my GitHub 
  &nbsp;
 <a href="https://t.me/its_hessam"><img src="https://skillicons.dev/icons?i=arch" alt="telegram" /></a>
  &nbsp;
-<a href="inkedin.com/in/herahmani"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://inkedin.com/in/herahmani"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
  &nbsp;
 </p>
 
