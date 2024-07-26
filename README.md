@@ -33,7 +33,7 @@ You can contact me through my portfolio website which is available on my GitHub 
 
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=vue&logoColor=white" />
- <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/vue-js?style=for-the-badge&logo=vue-js&logoColor=white" />
 
 </p>
 
