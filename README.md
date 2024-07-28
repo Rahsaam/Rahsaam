@@ -39,7 +39,7 @@ You can contact me through my portfolio website which is available on my GitHub 
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Pinia-2C3E50?style=for-the-badge&logo=pinia&logoColor=white" />
+ <img src="https://img.shields.io/badge/Pinia-2C3E50?style=for-the-badge&logo=custom&logoColor=white&logoWidth=20&labelColor=2C3E50&logo=https://example.com/pinia-logo.png" />
  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
