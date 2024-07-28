@@ -32,10 +32,15 @@ You can contact me through my portfolio website which is available on my GitHub 
 <p  align="center"> 
 
  <img src="https://img.shields.io/badge/vue-js?style=for-the-badge&logo=vue.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
- <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
 
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Pinia-2C3E50?style=for-the-badge&logo=pinia&logoColor=white" />
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 
