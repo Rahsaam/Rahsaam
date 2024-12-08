@@ -1,5 +1,5 @@
 # 👦🏻About Me :
-Hello everyone I’m Hesam, a software engineer. My behavioral characteristics include honesty at work & high flexibility which are suitable for different situations. Having so much commitment to my duties and looking for learning new things are my priorities.
+Hello everyone I’m Hesam, a software engineer. My behavioral characteristics include honesty at work & high flexibility which are suitable for different situations. Having so much commitment to my duties and looking for learning new things are my priorities .
 You can contact me through my portfolio website which is available on my GitHub profile.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=FAE600&background=FFFFFF00&vCenter=true&width=400&lines=Hi+there;I'm+a+Software+engineer;I'm+a+Fullstack+developer)](https://git.io/typing-svg)
